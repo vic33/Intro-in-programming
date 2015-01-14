@@ -1,0 +1,33 @@
+Some of the most popular programming languages nowadays are: Python, Java, PHP, C++ and Ruby.
+
+1. Python
+Python is a widely used general-purpose, high-level programming language. Its design philosophy emphasizes code readability, 
+and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java.
+Python supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles. 
+It features a dynamic type system and automatic memory management
+Python projects are often open-source, web-based, and/or cross-platform. Python has a larger user base on mac and unix-based platforms.
+C# projects are often proprietary, windows-based applications. There's very few non-windows C# projects.
+
+
+
+2. C++
+Many programming languages, like C# and Java, were influenced by C++.
+The basic operators and style of C++ can be found in C#, but one of the differences is, that the code is executed in a controlled sandbox, called virtual machine. That newly added feature makes C# more user friendly and more enjoyable.
+
+
+
+3. PHP
+PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language.
+The main difference between this programming language and C# is that PHP is a dynamic and interpreted, unlike the static C#.
+
+
+
+4. Ruby 
+Ruby is a dynamic, reflective, object-oriented, general-purpose programming language.
+Major differences between it and C# is that Ruby is fully dynamic and interpreted language.
+
+
+
+5. Java
+Java and C# are similar programming languages that are statically, strongly, and manifestly typed, both are class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind, both use garbage-collection, and both are "curly brace languages" like C and C++.
+The main difference is that Java can be run on any operating system, while C# typically requires Windows and the .NET framework.
